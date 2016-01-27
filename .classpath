@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/home/nahuel/Documents/workspace/test/lib/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/nahuel/Documents/workspace/test/lib/jtransforms-2.4.jar"/>
+	<classpathentry kind="lib" path="/home/nahuel/Documents/workspace/test/lib/mp3spi1.9.5.jar"/>
+	<classpathentry kind="lib" path="/home/nahuel/Documents/workspace/test/lib/tritonus_remaining-0.3.6.jar"/>
+	<classpathentry kind="lib" path="/home/nahuel/Documents/workspace/test/lib/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="/home/nahuel/Documents/workspace/test/lib/mysql-connector-java-5.1.36-bin.jar"/>
+	<classpathentry kind="lib" path="/home/nahuel/Documents/workspace/test/lib/gson-2.2.4.jar" sourcepath="/home/nahuel/.m2/repository/com/google/code/gson/gson/2.2.4/gson-2.2.4-sources.jar"/>
+	<classpathentry kind="lib" path="/home/nahuel/Documents/workspace/test/lib/apache-httpcomponents-httpclient.jar"/>
+	<classpathentry kind="lib" path="/home/nahuel/Documents/workspace/test/lib/apache-httpcomponents-httpcore.jar"/>
+	<classpathentry kind="lib" path="/home/nahuel/Documents/workspace/test/lib/apache-httpcomponents-httpmime.jar"/>
+	<classpathentry kind="lib" path="/home/nahuel/Documents/workspace/test/lib/apache-httpcomponents-httpclient-cache.jar"/>
+	<classpathentry kind="lib" path="/home/nahuel/Documents/workspace/test/lib/commons.logging-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
